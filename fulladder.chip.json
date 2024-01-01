@@ -1,0 +1,10 @@
+{
+  "name": "fulladder",
+  "author": "Omar A Khan",
+  "pins": [
+    "VCC",
+    "GND", "Sum","Cout",
+    "A","B","Cin"
+  ],
+  "controls": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "asd",
+  "author": "Rohan Riaz",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}

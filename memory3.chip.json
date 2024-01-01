@@ -1,0 +1,23 @@
+{
+  "name": "memory3",
+  "author": "",
+  "pins": [
+    "VCC",
+    "GND",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "OUT1",
+    "OUT2",
+    "OUT3",
+    "OUT4",
+    "OUT5",
+    "OUT6",
+    "OUT7",
+    "OUT8"
+  ],
+  "controls": []
+}

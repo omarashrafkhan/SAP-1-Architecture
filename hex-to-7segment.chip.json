@@ -1,0 +1,19 @@
+{
+  "name": "Hex To Seven Segment",
+  "author": "Renaldas Zioma",
+  "pins": [
+    "G",
+    "F",
+    "in0",
+    "in1",
+    "in2",
+    "in3",
+
+    "A",
+    "B",
+    "C",
+    "COM",
+    "D",
+    "E"
+  ]
+}

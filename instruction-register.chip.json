@@ -1,0 +1,14 @@
+{
+  "name": "instruction-register",
+  "author": "Omar A Khan",
+  "pins": [
+    "VCC",
+    "GND",
+    "I0",
+    "I1","I2","I3","I4","I5","I6","I7","O0",
+    "O1","O2","O3","O4","O5","O6","O7"
+  ],
+    "controls": [
+    
+  ]
+}
